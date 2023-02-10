@@ -1,0 +1,17 @@
+[
+    {
+        "name": "prity",
+        "workon": "Project-1",
+        "group": "VueJS"
+    },
+    {
+        "name": "Krina",
+        "workon": "Project-2",
+        "group": "ReactJS"
+    },
+    {
+        "name": "Janvi",
+        "workon": "Project-3",
+        "group": "AngularJS"
+    }
+]
